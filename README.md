@@ -50,6 +50,19 @@ Introduction to Monitoring and Observability
 
 ![image](https://github.com/user-attachments/assets/4cc5b202-96bf-4f5e-9e24-fe43c5cd3df3)
 
+![image](https://github.com/user-attachments/assets/62223675-d7ee-4ab7-84b5-2b439cad8069)
+
+![image](https://github.com/user-attachments/assets/a22fa949-2c56-43b5-8887-18d2ee63f74b)
+
+![image](https://github.com/user-attachments/assets/eec6a358-b3cf-4b36-8ff2-1e3d191b5412)
+
+![image](https://github.com/user-attachments/assets/a6c53a5b-a03e-4bc4-a7f3-51564d3edfdd)
+
+![image](https://github.com/user-attachments/assets/c3016056-98ec-479c-9fb4-ac69cf626c86)
+
+# Architecture of prometheus
+
+![image](https://github.com/user-attachments/assets/50bb9a72-ffc1-40c1-8423-10803d2e433f)
 
 
 
@@ -58,20 +71,3 @@ Introduction to Monitoring and Observability
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Monitoring_and_Observibility
